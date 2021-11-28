@@ -69,7 +69,7 @@ Neil Lewis
 - Biosynthesized ZnO Nanoparticles can be considered as one of the most effective methods to remove dyes from water and wastewater. 
 - In this project we synthesis zinc oxide using Photocatalysis process, which shows the photo degradation of mythelne blue as model system.
 
-  <ins>Hobbies
+<ins>Hobbies
 ------
 - **Playing Cricket & Football**
 - **Photography**
